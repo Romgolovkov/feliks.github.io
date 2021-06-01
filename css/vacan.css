@@ -1,0 +1,128 @@
+body{
+    height: 100%;
+}
+/*--------------------------------------------------
+[17. Start Vacan]
+--------------------------------------------------*/
+.vacan {
+    padding: 130px 0;
+}
+
+.vacan .heading h2 {
+    font-size: 30px;
+    font-weight: 700;
+    margin: 0;
+    padding: 0;
+
+}
+
+.vacan .heading h2 span {
+    color: #BE2121;
+}
+
+.vacan .heading p {
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 1.7;
+    color: #999999;
+    margin: 20px 0 60px;
+    padding: 0;
+}
+
+.vacan .form-control {
+    padding: 25px;
+    font-size: 15px;
+    margin-bottom: 10px;
+    background: #f9f9f9;
+    border: 0;
+    border-radius: 10px;
+}
+
+.vacan button.btn {
+    padding: 10px;
+    border-radius: 10px;
+    font-size: 15px;
+    background: #BE2121;
+    color: #ffffff;
+}
+
+.vacan .title h3 {
+    font-size: 18px;
+    font-weight: 600;
+}
+
+.vacan .title p {
+    font-size: 14px;
+    font-weight: 400;
+    color: #999;
+    line-height: 1.6;
+    margin: 0 0 40px;
+}
+
+.vacan .content .info {
+    margin-top: 30px;
+}
+
+.vacan .content .info .icon {
+    font-size: 30px;
+    padding: 0;
+    margin: 0;
+    color: #02434b;
+    margin-right: 20px;
+}
+
+.vacan .content .info h4 {
+    font-size: 13px;
+    line-height: 1.4;
+}
+
+.vacan .content .info h4 span {
+    font-size: 13px;
+    font-weight: 300;
+    color: #999999;
+}
+
+/*--------------------------------------------------
+[18. Start Footer]
+--------------------------------------------------*/
+.footer {
+    padding: 80px 0;
+    background: url("../img/bg/spec-2.png") center center no-repeat;
+    background-size: cover;
+}
+
+.footer .social-icons {
+    margin: 30px 0;
+    padding: 0;
+}
+
+.footer .social-icons a {
+    text-decoration: none;
+}
+
+.footer .social-icons i {
+    font-size: 15px;
+    line-height: 42px;
+    color: #ffffff;
+    width: 40px;
+    height: 40px;
+    background: transparent;
+    border: 0.5px solid #ffffff;
+    border-radius: 50%;
+    margin: 0 3px;
+    transition: all 0.5s ease-in-out;
+}
+
+.footer .social-icons i:hover {
+    background: #BE2121;
+    color: #ffffff;
+    border: 0.5px solid #BE2121;
+}
+
+.footer p {
+    font-size: 14px;
+    font-weight: 300;
+    color: #cacaca;
+    margin: 0;
+    padding: 0;
+}
